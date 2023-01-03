@@ -5,6 +5,6 @@
 
 ## Description
 
-This is my first try on using Spring Boot in Java. I did this project for my Internet Engineering course at Alzahra University. 
+This is my first try at using Spring Boot in Java. I did this project for my Internet Engineering course at Alzahra University. 
 
 In this project, I learned how to work with Spring Boot, and simulate a registration form.
